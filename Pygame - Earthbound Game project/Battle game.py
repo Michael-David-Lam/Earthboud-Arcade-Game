@@ -1,4 +1,4 @@
-#Written By Michael Lam (began on May 9 2020 deadline on June 12 2020)
+#Written By Michael Lam (began on May 9 2020 finished on June 12 2020)
 #video game project
 import pygame, os, random, time
 from pygame.locals import *
